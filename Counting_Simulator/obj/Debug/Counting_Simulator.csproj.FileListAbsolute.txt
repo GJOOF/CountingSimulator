@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Counting_Simulator\Counting_Simulator\bin\Debug\Counting_Simulator.exe.config
+C:\Users\user\source\repos\Counting_Simulator\Counting_Simulator\bin\Debug\Counting_Simulator.exe
+C:\Users\user\source\repos\Counting_Simulator\Counting_Simulator\bin\Debug\Counting_Simulator.pdb
+C:\Users\user\source\repos\Counting_Simulator\Counting_Simulator\obj\Debug\Counting_Simulator.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Counting_Simulator\Counting_Simulator\obj\Debug\Counting_Simulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Counting_Simulator\Counting_Simulator\obj\Debug\Counting_Simulator.Properties.Resources.resources
+C:\Users\user\source\repos\Counting_Simulator\Counting_Simulator\obj\Debug\Counting_Simulator.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Counting_Simulator\Counting_Simulator\obj\Debug\Counting_Simulator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Counting_Simulator\Counting_Simulator\obj\Debug\Counting_Simulator.exe
+C:\Users\user\source\repos\Counting_Simulator\Counting_Simulator\obj\Debug\Counting_Simulator.pdb
+C:\Users\user\source\repos\Counting_Simulator\Counting_Simulator\obj\Debug\Counting_Simulator.Main.resources
